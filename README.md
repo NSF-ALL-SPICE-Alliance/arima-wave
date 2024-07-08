@@ -16,5 +16,14 @@ This work took place during June 2024 in the SPICE Summer Data Science Institute
 
 ## Student Videos
 
+
+
+
+https://github.com/NSF-ALL-SPICE-Alliance/arima-wave/assets/76076246/4bb47cd7-cfc9-4f8b-9259-921ad45b1482
+
+
+
+
+
 https://github.com/NSF-ALL-SPICE-Alliance/arima-wave/assets/76076246/5761b925-5360-40fd-9251-204d94e4a79e
 
