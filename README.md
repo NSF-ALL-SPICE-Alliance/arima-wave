@@ -27,3 +27,21 @@ https://github.com/NSF-ALL-SPICE-Alliance/arima-wave/assets/76076246/4bb47cd7-cf
 
 https://github.com/NSF-ALL-SPICE-Alliance/arima-wave/assets/76076246/5761b925-5360-40fd-9251-204d94e4a79e
 
+
+
+#### Students
+
+[Grace Stewart](https://github.com/gracesstew)
+
+[Jean Malolo](https://github.com/jeanpmalolo)
+
+[Richard Mackey](https://github.com/RichardMackMarvel00)
+
+[Trachelle Iwamoto ](https://github.com/trachelle)
+
+[Junior Junious](https://github.com/juniousnj)
+
+
+#### Mentor
+
+[Victoria DelaCruz ](https://github.com/vdlcruz670)
